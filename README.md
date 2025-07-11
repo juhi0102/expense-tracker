@@ -18,9 +18,4 @@ npm start
 
 Built with ❤️ by Juhi Rawat
 
-Then commit & push:
 
-```bash
-git add README.md
-git commit -m "Add README"
-git push
